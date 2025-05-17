@@ -1,4 +1,4 @@
-## Experiment No: 1B- Data Types – Reading and Printing Two Float Values
+# Experiment No: 1B- Data Types – Reading and Printing Two Float Values
 
 ## AIM
 
